@@ -1,0 +1,51 @@
+Locales['en'] = {
+  -- Taquilla
+  ['cloakroom_menu'] = 'Guardarropa',
+  ['cloakroom_prompt'] = 'Pulsa ~INPUT_CONTEXT~ para acceder al ~y~guardarropa~s~.',
+
+  -- Garaje
+  ['spawner_prompt'] = 'Pulsa ~INPUT_CONTEXT~ para acceder al ~y~garaje~s~.',
+  ['store_veh'] = 'Pulsa ~INPUT_CONTEXT~ para guardar el vehiculo',
+  ['spawn_veh'] = 'Sacar vehiculo',
+  ['spawnpoint_blocked'] = 'Hay un vehiculo bloqueando el sitio de aparición del coche!',
+  ['only_admin'] = 'Solo puedes guardar admins.',
+
+  ['taking_service'] = 'Tomando servicio: admin/Uber',
+  ['full_service'] = 'Servicio lleno: ',
+  ['amount_invalid'] = 'Cantidad invalida',
+  ['press_to_open'] = 'Pulsa ~INPUT_CONTEXT~ para acceder al menu',
+  ['billing'] = 'Facturación',
+  ['invoice_amount'] = 'Cantidad de la factura',
+  ['no_players_near'] = 'No hay jugadores cerca',
+  ['start_job'] = 'Empieza / Para conducir trabajos de NPCs',
+  ['drive_search_pass'] = 'Conduciendo en busca de ~y~pasajeros',
+  ['customer_found'] = 'Has ~g~encontrado~s~ un cliente, acercate a ellos',
+  ['client_unconcious'] = 'Tu cliente está ~r~inconsciente~s~, busca a otro',
+  ['arrive_dest'] = 'Has ~g~llegado~s~ a tu destinación',
+  ['take_me_to_near'] = '~s~Llevame~y~ %s~s~, cerca de ~y~%s',
+  ['take_me_to'] = '~s~Llevame a ~y~%s',
+  ['close_to_client'] = 'Estás muy lejos de tu cliente, ve a buscarle',
+  ['return_to_veh'] = 'Vuelve a tu vehiculo para seguir trabajando',
+  ['must_in_admin'] = 'Debes estar en un ~y~admin~s~ para empezar a trabajar',
+  ['must_in_vehicle'] = 'Debes estar en un vehiculo para empezar a trabajar',
+  ['have_earned'] = 'Has ganado ~g~$%s~s~',
+  ['comp_earned'] = '- Tu empresa ha ganado ~g~$%s~s~\n- y tu has ganado ~g~$%s~s~',
+  ['deposit_stock'] = '<span style="color:green;">Depositar objetos',
+  ['take_stock'] = '<span style="color:red;">Retirar objetos',
+  ['boss_actions'] = 'Acciones del jefe',
+  ['mission_complete'] = 'Trabajo completado',
+  ['quantity'] = 'Cantidad',
+  ['quantity_invalid'] = 'Esta es una cantidad invalida!',
+  ['inventory'] = 'Inventario de administradores',
+  ['admin_client'] = 'Cliente de admin',
+  ['have_withdrawn'] = 'Has retirado ~y~x%s~s~ ~b~%s~s~',
+  ['have_deposited'] = 'Has ingresado ~y~x%s~s~ ~b~%s~s~',
+  ['player_cannot_hold'] = 'Tu ~r~no~s~ tienes suficiente ~y~espacio libre~s~ en tu inventario!',
+  ['blip_admin'] = 'Centro de adminstas',
+  
+  -- Información de vehciulos
+  ['plate'] = 'Matrícula: %s',
+  ['owner_unknown'] = 'Propietario: desconocido',
+  ['owner'] = 'Propietario: %s',
+  
+}

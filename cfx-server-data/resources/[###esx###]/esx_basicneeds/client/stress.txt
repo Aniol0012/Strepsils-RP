@@ -1,0 +1,6 @@
+     if IsPedSwimming(ped) then
+       TriggerEvent('esx_status:add', 'stress', 20000) -- Cuando nadas añade 2 puntos
+     if IsPedJumping(ped) then
+       TriggerEvent('esx_status:add', 'stress', 10000) -- Cuando saltas añade 1 punto
+     if IsPedHurt(ped) then
+       TriggerEvent('esx_status:add', 'stress', 50000) -- Cuando estás herido añade 5 puntos

@@ -1,0 +1,47 @@
+﻿- Fer el doorlock de la policia i demés...
+
+- Fer el sistema de trucades de taxi
+
+- Fer el treball de poli
+
+- Fer el treball de mafia
+
+- Esx_property
+
+- Fer el renting del skate, bmx...
+
+- Fer 3 jobs nous
+
+- Fer el esx_mechanicjob
+
+- Entrar salir de servicio
+
+- Vending mashines y water tank
+
+- Acabar esx_rpchat
+
+- Dmv school
+
+- Acabar botigues
+
+- Acabar esx_vehiclesshop
+
+- Speaker
+
+- Posar alguns vehicles de la cnp, ems i taxi
+
+- Script de atracos a bancos
+
+- ID over head
+
+- esx_drugs
+
+- Voip
+
+- Crafting table
+
+- Notas
+
+- Sistema de experiencia y univesidad
+
+- Maletero

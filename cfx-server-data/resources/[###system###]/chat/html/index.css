@@ -1,0 +1,197 @@
+.color-0{color: #ffffff;} /* Blanco */
+.color-1{color: #ff0000;} /* Rojo */
+.color-2{color: #6bff21;} /* Verde */
+.color-3{color: #ffaa00;} /* Naranja */
+.color-4{color: #00bbff;} /* Azul */
+.color-5{color: #066e94;} /* Azul Oscuro */
+.color-6{color: #aa66cc;} /* Morado */
+.color-8{color: #cc0000;} /* Rojo intenso */
+.color-9{color: #ff1cc2;} /* Rosa */
+
+* {
+  font-family: 'Tahoma', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.no-grow {
+  flex-grow: 0;
+}
+
+em {
+  font-style: normal;
+}
+
+#app {
+  font-family: 'Tahoma', Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: white;
+}
+
+.chat-window {
+  position: absolute;
+  top: 2.0%; /* Con esto defines lo arriba o abajo que se encuentra el chat. Default: 2.0  */
+  left: 0.8%; /* Con esto defines lo derecha o izquierda que se encuentra el chat. Default: 2.0 */
+  width: 25%;
+  height: 22%;
+  max-width: 1000px; /* Con esto defines cuanto largo en horizontal es el chat */
+  background-color: rgba(0, 255, 0, 0.7);
+  -webkit-animation-duration: 2s;
+  
+  border-top-left-radius: 1vw;
+  border-top-right-radius: 1vw;
+  }
+
+/*
+.chat-window {
+  position: absolute;
+  top: 2.5%; 
+  left: 1.0%;
+  width: 30%;
+  height: 22%;
+  max-width: 1000px;
+  background-color: rgba(52, 73, 94, 0.432);
+  -webkit-animation-duration: 2s;
+
+  border-top-left-radius: 1vw;
+  border-top-right-radius: 1vw;
+}
+*/
+
+.header { /*Esto es el box de los diferentes chats*/
+  position: absolute;
+  width: 30%;
+  left: 0.8%;
+  top: 24.5%;
+}
+
+.tablink {
+  background-color: rgba(255, 255, 255, 0.349);
+  color: black;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  font-size: 14px; 
+  width: 25%;
+  
+  
+}
+
+.borderBotLeft {
+  border-bottom-left-radius: 1vw;
+}
+
+.borderBotRight {
+  border-bottom-right-radius: 1vw;
+}
+
+.tablink:hover {
+  color: aliceblue;
+  background-color: rgba(0, 0, 0, 0.432);
+}
+
+#emoji {
+  position: absolute;
+  font-size: 2.3vh;
+  right: 1.5%;
+}
+
+.chat-messages {
+  position: relative;
+  height: 95%;
+  font-size: 1.5vh;
+  margin: 1%;
+
+  overflow-x: hidden;
+  overflow-y: hidden;
+}
+
+
+.chat-input {
+  font-size: 1.55vh;
+  position: absolute;
+
+  top: 28.8%;
+  left: 0.8%;
+  width: 30%;
+  max-width: 1000px;
+  box-sizing: border-box;
+  border-radius: 1vw;
+}
+
+.prefix {
+  font-size: 1.8vh;
+  position: absolute;
+  margin-top: 0.5%;
+  left: 0.208%;
+}
+
+textarea {
+  font-size: 1.6vh;
+  display: block;
+  box-sizing: border-box;
+  padding: 1%;
+  padding-left: 4.5%;/* Esto define cuanto a la derecha sale el texto en el chat */
+  color: white;
+  background-color: green;/* Color del chat, puedes hacerlo tambien con rgba: rgba(44, 62, 80, 1.0)  */
+  width: 100%; /* Esto define lo largo que es el box del chat */
+  border-width: 0;/* Con esto defines si quieres un borde en el box del chat */
+  height: 3.15%;
+  overflow: hidden;
+  opacity: 1; /* Aqui puedes poner la opacidad del texto, en 1, la opacidad es máxima (opaco), y en 0 la opacidad es mínima (transparente) */
+  text-overflow: ellipsis;
+  border-radius: 1vw;
+}
+
+textarea:focus, input:focus {
+    outline: none;
+}
+
+.msg {
+  margin-bottom: 0.28%;
+}
+
+.multiline {
+  margin-left: 4%;
+  text-indent: -1.2rem;
+  white-space: pre-line;
+}
+
+.suggestions {
+  list-style-type: none;
+  padding: 0.5%;
+  padding-left: 1.4%;
+  font-size: 1.65vh;
+  box-sizing: border-box;
+  color: white;
+  background-color: rgba(0, 153, 0, 1.0); /* Esto define el color de las sugerencias, Default: 44, 62, 80 */
+  width: 100%;
+  opacity: 0.7;
+}
+
+.help {
+  color: #0ddaff;
+}
+
+.disabled {
+  color: #0ddaff;
+}
+
+.suggestion {
+  margin-bottom: 0.5%;
+}
+
+.hidden {
+  display: none;
+}
+
+.iconChat {
+  width: 2.5vw;
+}
+
+.iconChatIRS {
+  width: 5.5vw;
+}

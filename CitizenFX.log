@@ -1,0 +1,1005 @@
+[         0] Initializing Mono
+[        15] Initializing Mono completed
+[        15] Hello!
+[        94] Found new resource async in C:/ROCAMUNDORP\cfx-server-data/resources//[###essentials###]/async
+[        94] Found new resource esplugin_mysql in C:/ROCAMUNDORP\cfx-server-data/resources//[###essentials###]/esplugin_mysql
+[       109] Found new resource essentialmode in C:/ROCAMUNDORP\cfx-server-data/resources//[###essentials###]/essentialmode
+[       109] Found new resource es_admin2 in C:/ROCAMUNDORP\cfx-server-data/resources//[###essentials###]/es_admin2
+[       125] Found new resource es_extended in C:/ROCAMUNDORP\cfx-server-data/resources//[###essentials###]/es_extended
+[       125] Found new resource mysql-async in C:/ROCAMUNDORP\cfx-server-data/resources//[###essentials###]/mysql-async
+[       125] Found new resource PvP in C:/ROCAMUNDORP\cfx-server-data/resources//[###essentials###]/PvP
+[       140] Found new resource cron in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/cron
+[       140] Found new resource esx_accessories in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_accessories
+[       156] Found new resource esx_addonaccount in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_addonaccount
+[       156] Found new resource esx_addoninventory in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_addoninventory
+[       172] Found new resource esx_ambulancejob in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_ambulancejob
+[       172] Found new resource esx_animations in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_animations
+[       187] Found new resource esx_bankerjob in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_bankerjob
+[       187] Found new resource esx_barbershop in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_barbershop
+[       187] Found new resource esx_basicneeds in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_basicneeds
+[       203] Found new resource esx_billing in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_billing
+[       203] Found new resource esx_boat in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_boat
+[       219] Found new resource esx_boilerplate in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_boilerplate
+[       219] Found new resource esx_clotheshop in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_clotheshop
+[       219] Found new resource esx_datastore in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_datastore
+[       234] Found new resource esx_dmvschool in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_dmvschool
+[       234] Found new resource esx_drugs in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_drugs
+[       250] Found new resource esx_garage in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_garage
+[       250] Found new resource esx_holdup in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_holdup
+[       265] Found new resource esx_identity in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_identity
+[       281] Found new resource esx_joblisting in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_joblisting
+[       281] Found new resource esx_jobs in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_jobs
+[       297] Found new resource esx_license in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_license
+[       297] Found new resource esx_lscustom in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_lscustom
+[       312] Found new resource esx_mechanicjob in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_mechanicjob
+[       328] Found new resource esx_menu_default in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_menu_default
+[       328] Found new resource esx_menu_dialog in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_menu_dialog
+[       344] Found new resource esx_menu_list in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_menu_list
+[       344] Found new resource esx_migrate in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_migrate
+[       359] Found new resource esx_optionalneeds in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_optionalneeds
+[       375] Found new resource esx_policejob in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_policejob
+[       375] Found new resource esx_property in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_property
+[       390] Found new resource esx_realestateagentjob in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_realestateagentjob
+[       390] Found new resource esx_rpchat in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_rpchat
+[       406] Found new resource esx_service in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_service
+[       406] Found new resource esx_shops in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_shops
+[       406] Found new resource esx_sit in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_sit
+[       422] Found new resource esx_skin in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_skin
+[       422] Found new resource esx_society in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_society
+[       437] Found new resource esx_status in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_status
+[       453] Found new resource esx_taxijob in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_taxijob
+[       453] Found new resource esx_vehicleshop in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_vehicleshop
+[       469] Found new resource esx_voice in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_voice
+[       469] Found new resource esx_weaponshop in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_weaponshop
+[       484] Found new resource esx_whitelistEnhanced in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_whitelistEnhanced
+[       484] Found new resource es_camera in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/es_camera
+[       484] Found new resource instance in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/instance
+[       500] Found new resource new_banking in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/new_banking
+[       500] Found new resource skinchanger in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/skinchanger
+[       515] Found new resource fivem in C:/ROCAMUNDORP\cfx-server-data/resources//[###fivem###]/fivem
+[       515] Found new resource fivem-awesome1501 in C:/ROCAMUNDORP\cfx-server-data/resources//[###fivem###]/fivem-awesome1501
+[       531] Found new resource fivem-map-hipster in C:/ROCAMUNDORP\cfx-server-data/resources//[###fivem###]/fivem-map-hipster
+[       531] Found new resource fivem-map-skater in C:/ROCAMUNDORP\cfx-server-data/resources//[###fivem###]/fivem-map-skater
+[       547] Found new resource runcode in C:/ROCAMUNDORP\cfx-server-data/resources//[###fivem###]/runcode
+[       562] Found new resource race in C:/ROCAMUNDORP\cfx-server-data/resources//[###fivem###]/[gamemodes]/race
+[       578] Found new resource race-test in C:/ROCAMUNDORP\cfx-server-data/resources//[###fivem###]/[gamemodes]/race-test
+[       594] Found new resource channelfeed in C:/ROCAMUNDORP\cfx-server-data/resources//[###fivem###]/[gameplay]/channelfeed
+[       594] Found new resource irc in C:/ROCAMUNDORP\cfx-server-data/resources//[###fivem###]/[gameplay]/irc
+[       609] Found new resource obituary in C:/ROCAMUNDORP\cfx-server-data/resources//[###fivem###]/[gameplay]/obituary
+[       625] Found new resource obituary-deaths in C:/ROCAMUNDORP\cfx-server-data/resources//[###fivem###]/[gameplay]/obituary-deaths
+[       625] Found new resource playernames in C:/ROCAMUNDORP\cfx-server-data/resources//[###fivem###]/[gameplay]/playernames
+[       640] Found new resource mapmanager in C:/ROCAMUNDORP\cfx-server-data/resources//[###fivem###]/[managers]/mapmanager
+[       656] Found new resource baseevents in C:/ROCAMUNDORP\cfx-server-data/resources//[###fivem###]/[system]/baseevents
+[       672] Found new resource chat in C:/ROCAMUNDORP\cfx-server-data/resources//[###fivem###]/[system]/chat
+[       687] Found new resource hardcap in C:/ROCAMUNDORP\cfx-server-data/resources//[###fivem###]/[system]/hardcap
+[       703] Found new resource rconlog in C:/ROCAMUNDORP\cfx-server-data/resources//[###fivem###]/[system]/rconlog
+[       719] Found new resource scoreboard in C:/ROCAMUNDORP\cfx-server-data/resources//[###fivem###]/[system]/scoreboard
+[       734] Found new resource sessionmanager in C:/ROCAMUNDORP\cfx-server-data/resources//[###fivem###]/[system]/sessionmanager
+[       750] Found new resource spawnmanager in C:/ROCAMUNDORP\cfx-server-data/resources//[###fivem###]/[system]/spawnmanager
+[       750] Found new resource betaguns in C:/ROCAMUNDORP\cfx-server-data/resources//[###fivem###]/[test]/betaguns
+[       765] Found new resource gameInit in C:/ROCAMUNDORP\cfx-server-data/resources//[###fivem###]/[test]/gameInit
+[       781] Found new resource keks in C:/ROCAMUNDORP\cfx-server-data/resources//[###fivem###]/[test]/keks
+[       844] Started resource sessionmanager
+[      2000] Started resource mapmanager
+[      2094] Started resource chat
+[      2094] Started resource spawnmanager
+[      2094] Started gametype Freeroam
+[      2094] Started resource fivem
+[      2109] Started resource hardcap
+[      2140] Started resource rconlog
+[      2203] Started resource scoreboard
+[      2219] Started resource playernames
+[      2234] Started resource async
+[      2609] Loaded SQLite.net, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_811857828
+[      2672] Loaded System.Data.SQLite, Version=1.0.109.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139 into ScriptDomain_811857828
+[      2922] Failed to instantiate instance of script SQLite.Main: System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.DllNotFoundException: SQLite.Interop.dll
+[      2922]   at (wrapper managed-to-native) System.Data.SQLite.UnsafeNativeMethods:sqlite3_config_none (System.Data.SQLite.SQLiteConfigOpsEnum)
+[      2922]   at System.Data.SQLite.SQLite3.StaticIsInitialized () [0x0001d] in <2dbd34e157eb4fefbab8047bc0d9632d>:0 
+[      2922]   at System.Data.SQLite.SQLiteLog.Initialize (System.String className) [0x00026] in <2dbd34e157eb4fefbab8047bc0d9632d>:0 
+[      2922]   at System.Data.SQLite.SQLiteConnection..ctor (System.String connectionString, System.Boolean parseViaFramework) [0x00046] in <2dbd34e157eb4fefbab8047bc0d9632d>:0 
+[      2922]   at System.Data.SQLite.SQLiteConnection..ctor (System.String connectionString) [0x00000] in <2dbd34e157eb4fefbab8047bc0d9632d>:0 
+[      2922]   at (wrapper remoting-invoke-with-check) System.Data.SQLite.SQLiteConnection:.ctor (string)
+[      2922]   at SQLite.Main..ctor () [0x0001c] in <d9601824428540b9a7e0ba8d7ddf823e>:0 
+[      2922]   at (wrapper managed-to-native) System.Reflection.MonoCMethod:InternalInvoke (System.Reflection.MonoCMethod,object,object[],System.Exception&)
+[      2922]   at System.Reflection.MonoCMethod.InternalInvoke (System.Object obj, System.Object[] parameters) [0x00002] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[      2922]    --- End of inner exception stack trace ---
+[      2922]   at System.Reflection.MonoCMethod.InternalInvoke (System.Object obj, System.Object[] parameters) [0x00014] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[      2922]   at System.RuntimeType.CreateInstanceMono (System.Boolean nonPublic) [0x000a8] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[      2922]   at System.RuntimeType.CreateInstanceSlow (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00009] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[      2922]   at System.RuntimeType.CreateInstanceDefaultCtor (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00027] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[      2922]   at System.Activator.CreateInstance (System.Type type, System.Boolean nonPublic) [0x00020] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[      2922]   at System.Activator.CreateInstance (System.Type type) [0x00000] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[      2922]   at CitizenFX.Core.InternalManager.CreateAssemblyInternal (System.Byte[] assemblyData, System.Byte[] symbolData) [0x00069] in C:\gl\builds\4ff63adb\0\cfx\fivem\code\client\clrcore\InternalManager.cs:78 
+[      2984] Started resource essentialmode
+[      3031] Started resource es_admin2
+[      3047] Started resource mysql-async
+[      3047] Started resource esplugin_mysql
+[      3109] Error loading script config.weapons.lua in resource es_extended: config.weapons.lua:13: attempt to call a nil value (global 'GetHashKey')
+[      3109] stack traceback:
+[      3109] 	config.weapons.lua:13: in main chunk
+[      3109] Failed to load script config.weapons.lua.
+[      3219] Started resource es_extended
+[      3219] Started resource PvP
+[      3234] Started resource cron
+[      3265] Started resource es_camera
+[      3281] Started resource skinchanger
+[      3297] Started resource esx_skin
+[      3328] Started resource esx_datastore
+[      3344] Started resource esx_accessories
+[      3359] Started resource esx_addonaccount
+[      3375] Started resource esx_addoninventory
+[      3406] Started resource esx_vehicleshop
+[      3422] Started resource esx_ambulancejob
+[      3437] Started resource esx_animations
+[      3453] Started resource esx_bankerjob
+[      3469] Started resource esx_barbershop
+[      3484] Started resource esx_status
+[      3500] Started resource esx_basicneeds
+[      3515] Started resource esx_billing
+[      3531] Started resource esx_boat
+[      3562] Started resource esx_boilerplate
+[      3578] Started resource esx_clotheshop
+[      3594] Started resource esx_license
+[      3625] Started resource esx_dmvschool
+[      3640] Started resource esx_drugs
+[      3687] Started resource esx_garage
+[      3719] Started resource esx_holdup
+[      3750] Started resource esx_identity
+[      3781] Started resource esx_joblisting
+[      3797] Started resource esx_jobs
+[      3828] Started resource esx_lscustom
+[      3859] Started resource esx_mechanicjob
+[      3859] Started resource esx_menu_default
+[      3875] Started resource esx_menu_dialog
+[      3890] Started resource esx_menu_list
+[      3906] Started resource esx_migrate
+[      3922] Started resource esx_optionalneeds
+[      3937] Started resource esx_policejob
+[      3953] Started resource instance
+[      3984] Started resource esx_property
+[      4000] Started resource esx_society
+[      4031] Started resource esx_realestateagentjob
+[      4047] Started resource esx_rpchat
+[      4062] Started resource esx_service
+[      4078] Started resource esx_shops
+[      4094] Started resource esx_sit
+[      4109] Started resource esx_taxijob
+[      4125] Started resource esx_voice
+[      4156] Started resource esx_weaponshop
+[      4172] Started resource esx_whitelistEnhanced
+[      4219] Started resource new_banking
+[      4219] Stopping resource esx_ambulancejob
+[      4234] Started resource esx_ambulancejob
+[      4250] Stopping resource esx_bankerjob
+[      4265] Started resource esx_bankerjob
+[      4265] Stopping resource esx_joblisting
+[      4281] Started resource esx_joblisting
+[      4281] Stopping resource esx_jobs
+[      4297] Started resource esx_jobs
+[      4297] Stopping resource esx_mechanicjob
+[      4328] Started resource esx_mechanicjob
+[      4328] Stopping resource esx_policejob
+[      4344] Started resource esx_policejob
+[      4359] Stopping resource esx_realestateagentjob
+[      4375] Started resource esx_realestateagentjob
+[      4375] Stopping resource esx_taxijob
+[      4390] Started resource esx_taxijob
+[      4390] Authenticating server license key...
+[      7547] Server license key authentication succeeded. Welcome!
+[      7625] Performing version check against: https://api.kanersps.pw/em/version?version=6.3.0&uuid=unknown
+[      7625] 
+[      7625] Started map fivem-map-hipster
+[      7640] Started resource fivem-map-hipster
+[      8000] 
+[      8000] ^2[EssentialMode]^0 Current version: 6.3.0
+[      8000] ^2[EssentialMode]^0 Updater version: 6.2.2
+[      8000] 
+[      8015] ^2[EssentialMode]^0 Everything is nice and updated!
+[      8015] 
+[      8015] ^1Advertisement: ^7Want to have EssentialMode pre-installed on a good and affordable server host? Go to the following link: https://zap-hosting.com/EssentialMode
+[         0] Initializing Mono
+[        16] Initializing Mono completed
+[        31] Hello!
+[        94] Found new resource async in C:/ROCAMUNDORP\cfx-server-data/resources//[###essentials###]/async
+[        94] Found new resource esplugin_mysql in C:/ROCAMUNDORP\cfx-server-data/resources//[###essentials###]/esplugin_mysql
+[       110] Found new resource essentialmode in C:/ROCAMUNDORP\cfx-server-data/resources//[###essentials###]/essentialmode
+[       110] Found new resource es_admin2 in C:/ROCAMUNDORP\cfx-server-data/resources//[###essentials###]/es_admin2
+[       110] Found new resource es_extended in C:/ROCAMUNDORP\cfx-server-data/resources//[###essentials###]/es_extended
+[       125] Found new resource mysql-async in C:/ROCAMUNDORP\cfx-server-data/resources//[###essentials###]/mysql-async
+[       125] Found new resource PvP in C:/ROCAMUNDORP\cfx-server-data/resources//[###essentials###]/PvP
+[       141] Found new resource cron in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/cron
+[       141] Found new resource esx_accessories in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_accessories
+[       156] Found new resource esx_addonaccount in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_addonaccount
+[       156] Found new resource esx_addoninventory in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_addoninventory
+[       172] Found new resource esx_ambulancejob in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_ambulancejob
+[       172] Found new resource esx_animations in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_animations
+[       188] Found new resource esx_bankerjob in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_bankerjob
+[       203] Found new resource esx_barbershop in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_barbershop
+[       203] Found new resource esx_basicneeds in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_basicneeds
+[       203] Found new resource esx_billing in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_billing
+[       219] Found new resource esx_boat in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_boat
+[       219] Found new resource esx_boilerplate in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_boilerplate
+[       235] Found new resource esx_clotheshop in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_clotheshop
+[       235] Found new resource esx_datastore in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_datastore
+[       235] Found new resource esx_dmvschool in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_dmvschool
+[       250] Found new resource esx_drugs in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_drugs
+[       250] Found new resource esx_garage in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_garage
+[       266] Found new resource esx_holdup in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_holdup
+[       266] Found new resource esx_identity in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_identity
+[       281] Found new resource esx_joblisting in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_joblisting
+[       281] Found new resource esx_jobs in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_jobs
+[       297] Found new resource esx_license in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_license
+[       297] Found new resource esx_lscustom in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_lscustom
+[       313] Found new resource esx_mechanicjob in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_mechanicjob
+[       313] Found new resource esx_menu_default in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_menu_default
+[       328] Found new resource esx_menu_dialog in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_menu_dialog
+[       344] Found new resource esx_menu_list in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_menu_list
+[       344] Found new resource esx_migrate in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_migrate
+[       360] Found new resource esx_optionalneeds in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_optionalneeds
+[       375] Found new resource esx_policejob in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_policejob
+[       375] Found new resource esx_property in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_property
+[       391] Found new resource esx_realestateagentjob in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_realestateagentjob
+[       391] Found new resource esx_rpchat in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_rpchat
+[       406] Found new resource esx_service in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_service
+[       406] Found new resource esx_shops in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_shops
+[       422] Found new resource esx_sit in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_sit
+[       438] Found new resource esx_skin in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_skin
+[       438] Found new resource esx_society in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_society
+[       453] Found new resource esx_status in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_status
+[       453] Found new resource esx_taxijob in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_taxijob
+[       469] Found new resource esx_vehicleshop in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_vehicleshop
+[       485] Found new resource esx_voice in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_voice
+[       485] Found new resource esx_weaponshop in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_weaponshop
+[       500] Found new resource esx_whitelistEnhanced in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_whitelistEnhanced
+[       516] Found new resource es_camera in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/es_camera
+[       516] Found new resource instance in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/instance
+[       516] Found new resource new_banking in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/new_banking
+[       531] Found new resource skinchanger in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/skinchanger
+[       547] Found new resource fivem in C:/ROCAMUNDORP\cfx-server-data/resources//[###fivem###]/fivem
+[       547] Found new resource fivem-awesome1501 in C:/ROCAMUNDORP\cfx-server-data/resources//[###fivem###]/fivem-awesome1501
+[       563] Found new resource fivem-map-hipster in C:/ROCAMUNDORP\cfx-server-data/resources//[###fivem###]/fivem-map-hipster
+[       578] Found new resource fivem-map-skater in C:/ROCAMUNDORP\cfx-server-data/resources//[###fivem###]/fivem-map-skater
+[       578] Found new resource runcode in C:/ROCAMUNDORP\cfx-server-data/resources//[###fivem###]/runcode
+[       594] Found new resource race in C:/ROCAMUNDORP\cfx-server-data/resources//[###fivem###]/[gamemodes]/race
+[       594] Found new resource race-test in C:/ROCAMUNDORP\cfx-server-data/resources//[###fivem###]/[gamemodes]/race-test
+[       610] Found new resource channelfeed in C:/ROCAMUNDORP\cfx-server-data/resources//[###fivem###]/[gameplay]/channelfeed
+[       610] Found new resource irc in C:/ROCAMUNDORP\cfx-server-data/resources//[###fivem###]/[gameplay]/irc
+[       625] Found new resource obituary in C:/ROCAMUNDORP\cfx-server-data/resources//[###fivem###]/[gameplay]/obituary
+[       625] Found new resource obituary-deaths in C:/ROCAMUNDORP\cfx-server-data/resources//[###fivem###]/[gameplay]/obituary-deaths
+[       641] Found new resource playernames in C:/ROCAMUNDORP\cfx-server-data/resources//[###fivem###]/[gameplay]/playernames
+[       656] Found new resource mapmanager in C:/ROCAMUNDORP\cfx-server-data/resources//[###fivem###]/[managers]/mapmanager
+[       672] Found new resource baseevents in C:/ROCAMUNDORP\cfx-server-data/resources//[###fivem###]/[system]/baseevents
+[       672] Found new resource chat in C:/ROCAMUNDORP\cfx-server-data/resources//[###fivem###]/[system]/chat
+[       688] Found new resource hardcap in C:/ROCAMUNDORP\cfx-server-data/resources//[###fivem###]/[system]/hardcap
+[       688] Found new resource rconlog in C:/ROCAMUNDORP\cfx-server-data/resources//[###fivem###]/[system]/rconlog
+[       703] Found new resource scoreboard in C:/ROCAMUNDORP\cfx-server-data/resources//[###fivem###]/[system]/scoreboard
+[       703] Found new resource sessionmanager in C:/ROCAMUNDORP\cfx-server-data/resources//[###fivem###]/[system]/sessionmanager
+[       719] Found new resource spawnmanager in C:/ROCAMUNDORP\cfx-server-data/resources//[###fivem###]/[system]/spawnmanager
+[       719] Found new resource betaguns in C:/ROCAMUNDORP\cfx-server-data/resources//[###fivem###]/[test]/betaguns
+[       735] Found new resource gameInit in C:/ROCAMUNDORP\cfx-server-data/resources//[###fivem###]/[test]/gameInit
+[       735] Found new resource keks in C:/ROCAMUNDORP\cfx-server-data/resources//[###fivem###]/[test]/keks
+[       781] Started resource sessionmanager
+[       797] Started resource mapmanager
+[       813] Started resource chat
+[       813] Started resource spawnmanager
+[       828] Started gametype Freeroam
+[       828] Started resource fivem
+[       828] Started resource hardcap
+[       844] Started resource rconlog
+[       844] Started resource scoreboard
+[       860] Started resource playernames
+[       875] Started resource async
+[      1297] Loaded SQLite.net, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_718835621
+[      1360] Loaded System.Data.SQLite, Version=1.0.109.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139 into ScriptDomain_718835621
+[      1594] Failed to instantiate instance of script SQLite.Main: System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.DllNotFoundException: SQLite.Interop.dll
+[      1594]   at (wrapper managed-to-native) System.Data.SQLite.UnsafeNativeMethods:sqlite3_config_none (System.Data.SQLite.SQLiteConfigOpsEnum)
+[      1594]   at System.Data.SQLite.SQLite3.StaticIsInitialized () [0x0001d] in <2dbd34e157eb4fefbab8047bc0d9632d>:0 
+[      1594]   at System.Data.SQLite.SQLiteLog.Initialize (System.String className) [0x00026] in <2dbd34e157eb4fefbab8047bc0d9632d>:0 
+[      1594]   at System.Data.SQLite.SQLiteConnection..ctor (System.String connectionString, System.Boolean parseViaFramework) [0x00046] in <2dbd34e157eb4fefbab8047bc0d9632d>:0 
+[      1594]   at System.Data.SQLite.SQLiteConnection..ctor (System.String connectionString) [0x00000] in <2dbd34e157eb4fefbab8047bc0d9632d>:0 
+[      1594]   at (wrapper remoting-invoke-with-check) System.Data.SQLite.SQLiteConnection:.ctor (string)
+[      1594]   at SQLite.Main..ctor () [0x0004f] in <d9601824428540b9a7e0ba8d7ddf823e>:0 
+[      1594]   at (wrapper managed-to-native) System.Reflection.MonoCMethod:InternalInvoke (System.Reflection.MonoCMethod,object,object[],System.Exception&)
+[      1594]   at System.Reflection.MonoCMethod.InternalInvoke (System.Object obj, System.Object[] parameters) [0x00002] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[      1594]    --- End of inner exception stack trace ---
+[      1594]   at System.Reflection.MonoCMethod.InternalInvoke (System.Object obj, System.Object[] parameters) [0x00014] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[      1594]   at System.RuntimeType.CreateInstanceMono (System.Boolean nonPublic) [0x000a8] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[      1594]   at System.RuntimeType.CreateInstanceSlow (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00009] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[      1594]   at System.RuntimeType.CreateInstanceDefaultCtor (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00027] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[      1594]   at System.Activator.CreateInstance (System.Type type, System.Boolean nonPublic) [0x00020] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[      1594]   at System.Activator.CreateInstance (System.Type type) [0x00000] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[      1594]   at CitizenFX.Core.InternalManager.CreateAssemblyInternal (System.Byte[] assemblyData, System.Byte[] symbolData) [0x00069] in C:\gl\builds\4ff63adb\0\cfx\fivem\code\client\clrcore\InternalManager.cs:78 
+[      1641] Started resource essentialmode
+[      1688] Started resource es_admin2
+[      1688] Started resource mysql-async
+[      1703] Started resource esplugin_mysql
+[      1735] Error loading script config.weapons.lua in resource es_extended: config.weapons.lua:13: attempt to call a nil value (global 'GetHashKey')
+[      1735] stack traceback:
+[      1735] 	config.weapons.lua:13: in main chunk
+[      1735] Failed to load script config.weapons.lua.
+[      1781] Started resource es_extended
+[      1797] Started resource PvP
+[      1813] Started resource cron
+[      1813] Started resource es_camera
+[      1828] Started resource skinchanger
+[      1844] Started resource esx_skin
+[      1860] Started resource esx_datastore
+[      1891] Started resource esx_accessories
+[      1906] Started resource esx_addonaccount
+[      1922] Started resource esx_addoninventory
+[      1953] Started resource esx_vehicleshop
+[      1969] Started resource esx_ambulancejob
+[      1985] Started resource esx_animations
+[      2000] Started resource esx_bankerjob
+[      2031] Started resource esx_barbershop
+[      2047] Started resource esx_status
+[      2063] Started resource esx_basicneeds
+[      2078] Started resource esx_billing
+[      2094] Started resource esx_boat
+[      2110] Started resource esx_boilerplate
+[      2125] Started resource esx_clotheshop
+[      2141] Started resource esx_license
+[      2172] Started resource esx_dmvschool
+[      2188] Started resource esx_drugs
+[      2203] Started resource esx_garage
+[      2219] Started resource esx_holdup
+[      2235] Started resource esx_identity
+[      2250] Started resource esx_joblisting
+[      2266] Started resource esx_jobs
+[      2297] Started resource esx_lscustom
+[      2313] Started resource esx_mechanicjob
+[      2328] Started resource esx_menu_default
+[      2328] Started resource esx_menu_dialog
+[      2344] Started resource esx_menu_list
+[      2360] Started resource esx_migrate
+[      2375] Started resource esx_optionalneeds
+[      2406] Started resource esx_policejob
+[      2422] Started resource instance
+[      2438] Started resource esx_property
+[      2453] Started resource esx_society
+[      2469] Started resource esx_realestateagentjob
+[      2500] Started resource esx_rpchat
+[      2516] Started resource esx_service
+[      2531] Started resource esx_shops
+[      2547] Started resource esx_sit
+[      2563] Started resource esx_taxijob
+[      2594] Started resource esx_voice
+[      2610] Started resource esx_weaponshop
+[      2625] Started resource esx_whitelistEnhanced
+[      2672] Started resource new_banking
+[      2672] Stopping resource esx_ambulancejob
+[      2703] Started resource esx_ambulancejob
+[      2703] Stopping resource esx_bankerjob
+[      2735] Started resource esx_bankerjob
+[      2735] Stopping resource esx_joblisting
+[      2750] Started resource esx_joblisting
+[      2750] Stopping resource esx_jobs
+[      2766] Started resource esx_jobs
+[      2781] Stopping resource esx_mechanicjob
+[      2797] Started resource esx_mechanicjob
+[      2797] Stopping resource esx_policejob
+[      2813] Started resource esx_policejob
+[      2828] Stopping resource esx_realestateagentjob
+[      2844] Started resource esx_realestateagentjob
+[      2844] Stopping resource esx_taxijob
+[      2860] Started resource esx_taxijob
+[      2860] Authenticating server license key...
+[      3016] Server license key authentication succeeded. Welcome!
+[      3094] Performing version check against: https://api.kanersps.pw/em/version?version=6.3.0&uuid=1203ad1f-8ef1-44a1-5af5-18dd709157e6
+[      3094] 
+[      3110] Started map fivem-map-skater
+[      3110] Started resource fivem-map-skater
+[      3391] hitch warning: frame time of 323 milliseconds
+[      3625] 
+[      3625] ^2[EssentialMode]^0 Current version: 6.3.0
+[      3641] ^2[EssentialMode]^0 Updater version: 6.2.2
+[      3641] 
+[      3641] ^2[EssentialMode]^0 Everything is nice and updated!
+[      3641] 
+[      3656] ^1Advertisement: ^7Want to have EssentialMode pre-installed on a good and affordable server host? Go to the following link: https://zap-hosting.com/EssentialMode
+[     43344] Connecting: Bufas
+[     68297] Connecting: Bufas
+[     99188] Connecting: Bufas
+[    130469] Connecting: Bufas
+[    179641] Connecting: Bufas
+[         0] Initializing Mono
+[        16] Initializing Mono completed
+[        16] Hello!
+[        94] Found new resource async in C:/ROCAMUNDORP\cfx-server-data/resources//[###essentials###]/async
+[        94] Found new resource esplugin_mysql in C:/ROCAMUNDORP\cfx-server-data/resources//[###essentials###]/esplugin_mysql
+[       110] Found new resource essentialmode in C:/ROCAMUNDORP\cfx-server-data/resources//[###essentials###]/essentialmode
+[       110] Found new resource es_admin2 in C:/ROCAMUNDORP\cfx-server-data/resources//[###essentials###]/es_admin2
+[       110] Found new resource es_extended in C:/ROCAMUNDORP\cfx-server-data/resources//[###essentials###]/es_extended
+[       125] Found new resource mysql-async in C:/ROCAMUNDORP\cfx-server-data/resources//[###essentials###]/mysql-async
+[       125] Found new resource PvP in C:/ROCAMUNDORP\cfx-server-data/resources//[###essentials###]/PvP
+[       125] Found new resource cron in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/cron
+[       141] Found new resource esx_accessories in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_accessories
+[       141] Found new resource esx_addonaccount in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_addonaccount
+[       141] Found new resource esx_addoninventory in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_addoninventory
+[       157] Found new resource esx_ambulancejob in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_ambulancejob
+[       157] Found new resource esx_animations in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_animations
+[       157] Found new resource esx_bankerjob in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_bankerjob
+[       172] Found new resource esx_barbershop in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_barbershop
+[       172] Found new resource esx_basicneeds in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_basicneeds
+[       188] Found new resource esx_billing in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_billing
+[       188] Found new resource esx_boat in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_boat
+[       188] Found new resource esx_boilerplate in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_boilerplate
+[       204] Found new resource esx_clotheshop in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_clotheshop
+[       204] Found new resource esx_datastore in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_datastore
+[       219] Found new resource esx_dmvschool in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_dmvschool
+[       219] Found new resource esx_drugs in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_drugs
+[       219] Found new resource esx_garage in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_garage
+[       235] Found new resource esx_holdup in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_holdup
+[       235] Found new resource esx_identity in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_identity
+[       250] Found new resource esx_joblisting in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_joblisting
+[       250] Found new resource esx_jobs in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_jobs
+[       266] Found new resource esx_license in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_license
+[       266] Found new resource esx_lscustom in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_lscustom
+[       282] Found new resource esx_mechanicjob in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_mechanicjob
+[       282] Found new resource esx_menu_default in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_menu_default
+[       297] Found new resource esx_menu_dialog in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_menu_dialog
+[       313] Found new resource esx_menu_list in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_menu_list
+[       313] Found new resource esx_migrate in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_migrate
+[       313] Found new resource esx_optionalneeds in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_optionalneeds
+[       329] Found new resource esx_policejob in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_policejob
+[       329] Found new resource esx_property in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_property
+[       344] Found new resource esx_realestateagentjob in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_realestateagentjob
+[       344] Found new resource esx_rpchat in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_rpchat
+[       360] Found new resource esx_service in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_service
+[       360] Found new resource esx_shops in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_shops
+[       375] Found new resource esx_sit in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_sit
+[       375] Found new resource esx_skin in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_skin
+[       375] Found new resource esx_society in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_society
+[       391] Found new resource esx_status in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_status
+[       391] Found new resource esx_taxijob in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_taxijob
+[       407] Found new resource esx_vehicleshop in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_vehicleshop
+[       407] Found new resource esx_voice in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_voice
+[       422] Found new resource esx_weaponshop in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_weaponshop
+[       438] Found new resource esx_whitelistEnhanced in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_whitelistEnhanced
+[       438] Found new resource es_camera in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/es_camera
+[       454] Found new resource instance in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/instance
+[       454] Found new resource new_banking in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/new_banking
+[       454] Found new resource skinchanger in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/skinchanger
+[       469] Found new resource fivem in C:/ROCAMUNDORP\cfx-server-data/resources//[###fivem###]/fivem
+[       469] Found new resource fivem-awesome1501 in C:/ROCAMUNDORP\cfx-server-data/resources//[###fivem###]/fivem-awesome1501
+[       485] Found new resource fivem-map-hipster in C:/ROCAMUNDORP\cfx-server-data/resources//[###fivem###]/fivem-map-hipster
+[       485] Found new resource fivem-map-skater in C:/ROCAMUNDORP\cfx-server-data/resources//[###fivem###]/fivem-map-skater
+[       500] Found new resource runcode in C:/ROCAMUNDORP\cfx-server-data/resources//[###fivem###]/runcode
+[       500] Found new resource race in C:/ROCAMUNDORP\cfx-server-data/resources//[###fivem###]/[gamemodes]/race
+[       500] Found new resource race-test in C:/ROCAMUNDORP\cfx-server-data/resources//[###fivem###]/[gamemodes]/race-test
+[       516] Found new resource channelfeed in C:/ROCAMUNDORP\cfx-server-data/resources//[###fivem###]/[gameplay]/channelfeed
+[       516] Found new resource irc in C:/ROCAMUNDORP\cfx-server-data/resources//[###fivem###]/[gameplay]/irc
+[       532] Found new resource obituary in C:/ROCAMUNDORP\cfx-server-data/resources//[###fivem###]/[gameplay]/obituary
+[       532] Found new resource obituary-deaths in C:/ROCAMUNDORP\cfx-server-data/resources//[###fivem###]/[gameplay]/obituary-deaths
+[       547] Found new resource playernames in C:/ROCAMUNDORP\cfx-server-data/resources//[###fivem###]/[gameplay]/playernames
+[       563] Found new resource mapmanager in C:/ROCAMUNDORP\cfx-server-data/resources//[###fivem###]/[managers]/mapmanager
+[       563] Found new resource baseevents in C:/ROCAMUNDORP\cfx-server-data/resources//[###fivem###]/[system]/baseevents
+[       563] Found new resource chat in C:/ROCAMUNDORP\cfx-server-data/resources//[###fivem###]/[system]/chat
+[       579] Found new resource hardcap in C:/ROCAMUNDORP\cfx-server-data/resources//[###fivem###]/[system]/hardcap
+[       579] Found new resource rconlog in C:/ROCAMUNDORP\cfx-server-data/resources//[###fivem###]/[system]/rconlog
+[       594] Found new resource scoreboard in C:/ROCAMUNDORP\cfx-server-data/resources//[###fivem###]/[system]/scoreboard
+[       594] Found new resource sessionmanager in C:/ROCAMUNDORP\cfx-server-data/resources//[###fivem###]/[system]/sessionmanager
+[       610] Found new resource spawnmanager in C:/ROCAMUNDORP\cfx-server-data/resources//[###fivem###]/[system]/spawnmanager
+[       610] Found new resource betaguns in C:/ROCAMUNDORP\cfx-server-data/resources//[###fivem###]/[test]/betaguns
+[       625] Found new resource gameInit in C:/ROCAMUNDORP\cfx-server-data/resources//[###fivem###]/[test]/gameInit
+[       625] Found new resource keks in C:/ROCAMUNDORP\cfx-server-data/resources//[###fivem###]/[test]/keks
+[       672] Started resource sessionmanager
+[       672] Started resource mapmanager
+[       688] Started resource chat
+[       688] Started resource spawnmanager
+[       704] Started gametype Freeroam
+[       704] Started resource fivem
+[       704] Started resource hardcap
+[       719] Started resource rconlog
+[       719] Started resource scoreboard
+[       735] Started resource playernames
+[       735] Started resource async
+[      1141] Loaded SQLite.net, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_254532675
+[      1204] Loaded System.Data.SQLite, Version=1.0.109.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139 into ScriptDomain_254532675
+[      1407] Failed to instantiate instance of script SQLite.Main: System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.DllNotFoundException: SQLite.Interop.dll
+[      1407]   at (wrapper managed-to-native) System.Data.SQLite.UnsafeNativeMethods:sqlite3_config_none (System.Data.SQLite.SQLiteConfigOpsEnum)
+[      1407]   at System.Data.SQLite.SQLite3.StaticIsInitialized () [0x0001d] in <2dbd34e157eb4fefbab8047bc0d9632d>:0 
+[      1407]   at System.Data.SQLite.SQLiteLog.Initialize (System.String className) [0x00026] in <2dbd34e157eb4fefbab8047bc0d9632d>:0 
+[      1407]   at System.Data.SQLite.SQLiteConnection..ctor (System.String connectionString, System.Boolean parseViaFramework) [0x00046] in <2dbd34e157eb4fefbab8047bc0d9632d>:0 
+[      1407]   at System.Data.SQLite.SQLiteConnection..ctor (System.String connectionString) [0x00000] in <2dbd34e157eb4fefbab8047bc0d9632d>:0 
+[      1407]   at (wrapper remoting-invoke-with-check) System.Data.SQLite.SQLiteConnection:.ctor (string)
+[      1407]   at SQLite.Main..ctor () [0x0004f] in <d9601824428540b9a7e0ba8d7ddf823e>:0 
+[      1407]   at (wrapper managed-to-native) System.Reflection.MonoCMethod:InternalInvoke (System.Reflection.MonoCMethod,object,object[],System.Exception&)
+[      1407]   at System.Reflection.MonoCMethod.InternalInvoke (System.Object obj, System.Object[] parameters) [0x00002] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[      1407]    --- End of inner exception stack trace ---
+[      1407]   at System.Reflection.MonoCMethod.InternalInvoke (System.Object obj, System.Object[] parameters) [0x00014] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[      1407]   at System.RuntimeType.CreateInstanceMono (System.Boolean nonPublic) [0x000a8] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[      1407]   at System.RuntimeType.CreateInstanceSlow (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00009] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[      1407]   at System.RuntimeType.CreateInstanceDefaultCtor (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00027] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[      1407]   at System.Activator.CreateInstance (System.Type type, System.Boolean nonPublic) [0x00020] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[      1407]   at System.Activator.CreateInstance (System.Type type) [0x00000] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[      1407]   at CitizenFX.Core.InternalManager.CreateAssemblyInternal (System.Byte[] assemblyData, System.Byte[] symbolData) [0x00069] in C:\gl\builds\4ff63adb\0\cfx\fivem\code\client\clrcore\InternalManager.cs:78 
+[      1438] Started resource essentialmode
+[      1469] Started resource es_admin2
+[      1469] Started resource mysql-async
+[      1485] Started resource esplugin_mysql
+[      1500] Error loading script config.weapons.lua in resource es_extended: config.weapons.lua:13: attempt to call a nil value (global 'GetHashKey')
+[      1500] stack traceback:
+[      1500] 	config.weapons.lua:13: in main chunk
+[      1516] Failed to load script config.weapons.lua.
+[      1563] Started resource es_extended
+[      1579] Started resource PvP
+[      1610] Started resource cron
+[      1625] Started resource es_camera
+[      1641] Started resource skinchanger
+[      1657] Started resource esx_skin
+[      1657] Started resource esx_datastore
+[      1672] Started resource esx_accessories
+[      1688] Started resource esx_addonaccount
+[      1704] Started resource esx_addoninventory
+[      1735] Started resource esx_vehicleshop
+[      1750] Started resource esx_ambulancejob
+[      1750] Started resource esx_animations
+[      1766] Started resource esx_bankerjob
+[      1782] Started resource esx_barbershop
+[      1782] Started resource esx_status
+[      1797] Started resource esx_basicneeds
+[      1813] Started resource esx_billing
+[      1829] Started resource esx_boat
+[      1829] Started resource esx_boilerplate
+[      1844] Started resource esx_clotheshop
+[      1860] Started resource esx_license
+[      1875] Started resource esx_dmvschool
+[      1891] Started resource esx_drugs
+[      1891] Started resource esx_garage
+[      1907] Started resource esx_holdup
+[      1922] Started resource esx_identity
+[      1938] Started resource esx_joblisting
+[      1954] Started resource esx_jobs
+[      1969] Started resource esx_lscustom
+[      1985] Started resource esx_mechanicjob
+[      1985] Started resource esx_menu_default
+[      2000] Started resource esx_menu_dialog
+[      2000] Started resource esx_menu_list
+[      2016] Started resource esx_migrate
+[      2032] Started resource esx_optionalneeds
+[      2047] Started resource esx_policejob
+[      2063] Started resource instance
+[      2079] Started resource esx_property
+[      2079] Started resource esx_society
+[      2094] Started resource esx_realestateagentjob
+[      2110] Started resource esx_rpchat
+[      2110] Started resource esx_service
+[      2125] Started resource esx_shops
+[      2141] Started resource esx_sit
+[      2157] Started resource esx_taxijob
+[      2157] Started resource esx_voice
+[      2172] Started resource esx_weaponshop
+[      2188] Started resource esx_whitelistEnhanced
+[      2219] Started resource new_banking
+[      2235] Stopping resource esx_ambulancejob
+[      2250] Started resource esx_ambulancejob
+[      2250] Stopping resource esx_bankerjob
+[      2266] Started resource esx_bankerjob
+[      2266] Stopping resource esx_joblisting
+[      2282] Started resource esx_joblisting
+[      2282] Stopping resource esx_jobs
+[      2297] Started resource esx_jobs
+[      2297] Stopping resource esx_mechanicjob
+[      2313] Started resource esx_mechanicjob
+[      2313] Stopping resource esx_policejob
+[      2329] Started resource esx_policejob
+[      2329] Stopping resource esx_realestateagentjob
+[      2344] Started resource esx_realestateagentjob
+[      2344] Stopping resource esx_taxijob
+[      2360] Started resource esx_taxijob
+[      2360] Authenticating server license key...
+[      2610] Server license key authentication succeeded. Welcome!
+[      2672] Performing version check against: https://api.kanersps.pw/em/version?version=6.3.0&uuid=1203ad1f-8ef1-44a1-5af5-18dd709157e6
+[      2672] 
+[      2704] Started map fivem-map-skater
+[      2704] Started resource fivem-map-skater
+[      3172] 
+[      3172] ^2[EssentialMode]^0 Current version: 6.3.0
+[      3172] ^2[EssentialMode]^0 Updater version: 6.2.2
+[      3172] 
+[      3172] ^2[EssentialMode]^0 Everything is nice and updated!
+[      3188] 
+[      3188] ^1Advertisement: ^7Want to have EssentialMode pre-installed on a good and affordable server host? Go to the following link: https://zap-hosting.com/EssentialMode
+[         0] Initializing Mono
+[        16] Initializing Mono completed
+[        16] Hello!
+[        78] Found new resource async in C:/ROCAMUNDORP\cfx-server-data/resources//[###essentials###]/async
+[        94] Found new resource esplugin_mysql in C:/ROCAMUNDORP\cfx-server-data/resources//[###essentials###]/esplugin_mysql
+[        94] Found new resource essentialmode in C:/ROCAMUNDORP\cfx-server-data/resources//[###essentials###]/essentialmode
+[        94] Found new resource es_admin2 in C:/ROCAMUNDORP\cfx-server-data/resources//[###essentials###]/es_admin2
+[       110] Found new resource es_extended in C:/ROCAMUNDORP\cfx-server-data/resources//[###essentials###]/es_extended
+[       110] Found new resource mysql-async in C:/ROCAMUNDORP\cfx-server-data/resources//[###essentials###]/mysql-async
+[       110] Found new resource PvP in C:/ROCAMUNDORP\cfx-server-data/resources//[###essentials###]/PvP
+[       125] Found new resource cron in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/cron
+[       125] Found new resource esx_accessories in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_accessories
+[       125] Found new resource esx_addonaccount in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_addonaccount
+[       141] Found new resource esx_addoninventory in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_addoninventory
+[       141] Found new resource esx_ambulancejob in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_ambulancejob
+[       141] Found new resource esx_animations in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_animations
+[       157] Found new resource esx_bankerjob in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_bankerjob
+[       157] Found new resource esx_barbershop in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_barbershop
+[       172] Found new resource esx_basicneeds in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_basicneeds
+[       172] Found new resource esx_billing in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_billing
+[       172] Found new resource esx_boat in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_boat
+[       188] Found new resource esx_boilerplate in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_boilerplate
+[       188] Found new resource esx_clotheshop in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_clotheshop
+[       203] Found new resource esx_datastore in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_datastore
+[       203] Found new resource esx_dmvschool in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_dmvschool
+[       219] Found new resource esx_drugs in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_drugs
+[       219] Found new resource esx_garage in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_garage
+[       219] Found new resource esx_holdup in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_holdup
+[       235] Found new resource esx_identity in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_identity
+[       235] Found new resource esx_joblisting in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_joblisting
+[       250] Found new resource esx_jobs in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_jobs
+[       250] Found new resource esx_license in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_license
+[       266] Found new resource esx_lscustom in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_lscustom
+[       266] Found new resource esx_mechanicjob in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_mechanicjob
+[       282] Found new resource esx_menu_default in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_menu_default
+[       297] Found new resource esx_menu_dialog in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_menu_dialog
+[       297] Found new resource esx_menu_list in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_menu_list
+[       313] Found new resource esx_migrate in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_migrate
+[       313] Found new resource esx_optionalneeds in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_optionalneeds
+[       328] Found new resource esx_policejob in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_policejob
+[       328] Found new resource esx_property in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_property
+[       344] Found new resource esx_realestateagentjob in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_realestateagentjob
+[       360] Found new resource esx_rpchat in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_rpchat
+[       375] Found new resource esx_service in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_service
+[       375] Found new resource esx_shops in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_shops
+[       391] Found new resource esx_sit in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_sit
+[       391] Found new resource esx_skin in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_skin
+[       407] Found new resource esx_society in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_society
+[       407] Found new resource esx_status in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_status
+[       422] Found new resource esx_taxijob in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_taxijob
+[       422] Found new resource esx_vehicleshop in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_vehicleshop
+[       438] Found new resource esx_voice in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_voice
+[       453] Found new resource esx_weaponshop in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_weaponshop
+[       453] Found new resource esx_whitelistEnhanced in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_whitelistEnhanced
+[       453] Found new resource es_camera in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/es_camera
+[       469] Found new resource instance in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/instance
+[       485] Found new resource new_banking in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/new_banking
+[       485] Found new resource skinchanger in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/skinchanger
+[       485] Found new resource fivem in C:/ROCAMUNDORP\cfx-server-data/resources//[###fivem###]/fivem
+[       500] Found new resource fivem-awesome1501 in C:/ROCAMUNDORP\cfx-server-data/resources//[###fivem###]/fivem-awesome1501
+[       500] Found new resource fivem-map-hipster in C:/ROCAMUNDORP\cfx-server-data/resources//[###fivem###]/fivem-map-hipster
+[       516] Found new resource fivem-map-skater in C:/ROCAMUNDORP\cfx-server-data/resources//[###fivem###]/fivem-map-skater
+[       532] Found new resource runcode in C:/ROCAMUNDORP\cfx-server-data/resources//[###fivem###]/runcode
+[       532] Found new resource race in C:/ROCAMUNDORP\cfx-server-data/resources//[###fivem###]/[gamemodes]/race
+[       532] Found new resource race-test in C:/ROCAMUNDORP\cfx-server-data/resources//[###fivem###]/[gamemodes]/race-test
+[       547] Found new resource channelfeed in C:/ROCAMUNDORP\cfx-server-data/resources//[###fivem###]/[gameplay]/channelfeed
+[       563] Found new resource irc in C:/ROCAMUNDORP\cfx-server-data/resources//[###fivem###]/[gameplay]/irc
+[       563] Found new resource obituary in C:/ROCAMUNDORP\cfx-server-data/resources//[###fivem###]/[gameplay]/obituary
+[       563] Found new resource obituary-deaths in C:/ROCAMUNDORP\cfx-server-data/resources//[###fivem###]/[gameplay]/obituary-deaths
+[       578] Found new resource playernames in C:/ROCAMUNDORP\cfx-server-data/resources//[###fivem###]/[gameplay]/playernames
+[       594] Found new resource mapmanager in C:/ROCAMUNDORP\cfx-server-data/resources//[###fivem###]/[managers]/mapmanager
+[       594] Found new resource baseevents in C:/ROCAMUNDORP\cfx-server-data/resources//[###fivem###]/[system]/baseevents
+[       594] Found new resource chat in C:/ROCAMUNDORP\cfx-server-data/resources//[###fivem###]/[system]/chat
+[       610] Found new resource hardcap in C:/ROCAMUNDORP\cfx-server-data/resources//[###fivem###]/[system]/hardcap
+[       610] Found new resource rconlog in C:/ROCAMUNDORP\cfx-server-data/resources//[###fivem###]/[system]/rconlog
+[       625] Found new resource scoreboard in C:/ROCAMUNDORP\cfx-server-data/resources//[###fivem###]/[system]/scoreboard
+[       625] Found new resource sessionmanager in C:/ROCAMUNDORP\cfx-server-data/resources//[###fivem###]/[system]/sessionmanager
+[       641] Found new resource spawnmanager in C:/ROCAMUNDORP\cfx-server-data/resources//[###fivem###]/[system]/spawnmanager
+[       657] Found new resource betaguns in C:/ROCAMUNDORP\cfx-server-data/resources//[###fivem###]/[test]/betaguns
+[       657] Found new resource gameInit in C:/ROCAMUNDORP\cfx-server-data/resources//[###fivem###]/[test]/gameInit
+[       657] Found new resource keks in C:/ROCAMUNDORP\cfx-server-data/resources//[###fivem###]/[test]/keks
+[       703] Started resource sessionmanager
+[       719] Started resource mapmanager
+[       735] Started resource chat
+[       750] Started resource spawnmanager
+[       750] Started gametype Freeroam
+[       766] Started resource fivem
+[       766] Started resource hardcap
+[       782] Started resource rconlog
+[       797] Started resource scoreboard
+[       813] Started resource playernames
+[       828] Started resource async
+[      1266] Loaded SQLite.net, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_1229369490
+[      1313] Loaded System.Data.SQLite, Version=1.0.109.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139 into ScriptDomain_1229369490
+[      1516] Failed to instantiate instance of script SQLite.Main: System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.DllNotFoundException: SQLite.Interop.dll
+[      1516]   at (wrapper managed-to-native) System.Data.SQLite.UnsafeNativeMethods:sqlite3_config_none (System.Data.SQLite.SQLiteConfigOpsEnum)
+[      1516]   at System.Data.SQLite.SQLite3.StaticIsInitialized () [0x0001d] in <2dbd34e157eb4fefbab8047bc0d9632d>:0 
+[      1516]   at System.Data.SQLite.SQLiteLog.Initialize (System.String className) [0x00026] in <2dbd34e157eb4fefbab8047bc0d9632d>:0 
+[      1516]   at System.Data.SQLite.SQLiteConnection..ctor (System.String connectionString, System.Boolean parseViaFramework) [0x00046] in <2dbd34e157eb4fefbab8047bc0d9632d>:0 
+[      1516]   at System.Data.SQLite.SQLiteConnection..ctor (System.String connectionString) [0x00000] in <2dbd34e157eb4fefbab8047bc0d9632d>:0 
+[      1516]   at (wrapper remoting-invoke-with-check) System.Data.SQLite.SQLiteConnection:.ctor (string)
+[      1516]   at SQLite.Main..ctor () [0x0004f] in <d9601824428540b9a7e0ba8d7ddf823e>:0 
+[      1516]   at (wrapper managed-to-native) System.Reflection.MonoCMethod:InternalInvoke (System.Reflection.MonoCMethod,object,object[],System.Exception&)
+[      1516]   at System.Reflection.MonoCMethod.InternalInvoke (System.Object obj, System.Object[] parameters) [0x00002] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[      1516]    --- End of inner exception stack trace ---
+[      1516]   at System.Reflection.MonoCMethod.InternalInvoke (System.Object obj, System.Object[] parameters) [0x00014] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[      1516]   at System.RuntimeType.CreateInstanceMono (System.Boolean nonPublic) [0x000a8] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[      1516]   at System.RuntimeType.CreateInstanceSlow (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00009] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[      1516]   at System.RuntimeType.CreateInstanceDefaultCtor (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00027] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[      1516]   at System.Activator.CreateInstance (System.Type type, System.Boolean nonPublic) [0x00020] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[      1516]   at System.Activator.CreateInstance (System.Type type) [0x00000] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[      1516]   at CitizenFX.Core.InternalManager.CreateAssemblyInternal (System.Byte[] assemblyData, System.Byte[] symbolData) [0x00069] in C:\gl\builds\4ff63adb\0\cfx\fivem\code\client\clrcore\InternalManager.cs:78 
+[      1547] Started resource essentialmode
+[      1578] Started resource es_admin2
+[      1594] Started resource mysql-async
+[      1610] Started resource esplugin_mysql
+[      1625] Error loading script config.weapons.lua in resource es_extended: config.weapons.lua:13: attempt to call a nil value (global 'GetHashKey')
+[      1625] stack traceback:
+[      1625] 	config.weapons.lua:13: in main chunk
+[      1625] Failed to load script config.weapons.lua.
+[      1672] Started resource es_extended
+[      1688] Started resource PvP
+[      1688] Started resource cron
+[      1703] Started resource es_camera
+[      1719] Started resource skinchanger
+[      1735] Started resource esx_skin
+[      1750] Started resource esx_datastore
+[      1766] Started resource esx_accessories
+[      1782] Started resource esx_addonaccount
+[      1797] Started resource esx_addoninventory
+[      1813] Started resource esx_vehicleshop
+[      1844] Started resource esx_ambulancejob
+[      1860] Started resource esx_animations
+[      1875] Started resource esx_bankerjob
+[      1891] Started resource esx_barbershop
+[      1907] Started resource esx_status
+[      1922] Started resource esx_basicneeds
+[      1938] Started resource esx_billing
+[      1953] Started resource esx_boat
+[      1969] Started resource esx_boilerplate
+[      2000] Started resource esx_clotheshop
+[      2016] Started resource esx_license
+[      2047] Started resource esx_dmvschool
+[      2063] Started resource esx_drugs
+[      2094] Started resource esx_garage
+[      2110] Started resource esx_holdup
+[      2157] Started resource esx_identity
+[      2172] Started resource esx_joblisting
+[      2203] Started resource esx_jobs
+[      2219] Started resource esx_lscustom
+[      2250] Started resource esx_mechanicjob
+[      2250] Started resource esx_menu_default
+[      2266] Started resource esx_menu_dialog
+[      2282] Started resource esx_menu_list
+[      2297] Started resource esx_migrate
+[      2313] Started resource esx_optionalneeds
+[      2344] Started resource esx_policejob
+[      2360] Started resource instance
+[      2375] Started resource esx_property
+[      2391] Started resource esx_society
+[      2422] Started resource esx_realestateagentjob
+[      2438] Started resource esx_rpchat
+[      2453] Started resource esx_service
+[      2469] Started resource esx_shops
+[      2485] Started resource esx_sit
+[      2516] Started resource esx_taxijob
+[      2516] Started resource esx_voice
+[      2532] Started resource esx_weaponshop
+[      2563] Started resource esx_whitelistEnhanced
+[      2610] Started resource new_banking
+[      2610] Stopping resource esx_ambulancejob
+[      2625] Started resource esx_ambulancejob
+[      2625] Stopping resource esx_bankerjob
+[      2641] Started resource esx_bankerjob
+[      2641] Stopping resource esx_joblisting
+[      2672] Started resource esx_joblisting
+[      2672] Stopping resource esx_jobs
+[      2688] Started resource esx_jobs
+[      2688] Stopping resource esx_mechanicjob
+[      2703] Started resource esx_mechanicjob
+[      2719] Stopping resource esx_policejob
+[      2735] Started resource esx_policejob
+[      2735] Stopping resource esx_realestateagentjob
+[      2766] Started resource esx_realestateagentjob
+[      2766] Stopping resource esx_taxijob
+[      2782] Started resource esx_taxijob
+[      2782] Authenticating server license key...
+[      2922] Server license key authentication succeeded. Welcome!
+[      3000] Performing version check against: https://api.kanersps.pw/em/version?version=6.3.0&uuid=1203ad1f-8ef1-44a1-5af5-18dd709157e6
+[      3000] 
+[      3016] Started map fivem-map-hipster
+[      3016] Started resource fivem-map-hipster
+[      3485] 
+[      3485] ^2[EssentialMode]^0 Current version: 6.3.0
+[      3485] ^2[EssentialMode]^0 Updater version: 6.2.2
+[      3485] 
+[      3485] ^2[EssentialMode]^0 Everything is nice and updated!
+[      3485] 
+[      3500] ^1Advertisement: ^7Want to have EssentialMode pre-installed on a good and affordable server host? Go to the following link: https://zap-hosting.com/EssentialMode
+[     12282] Connecting: Bufas
+[     27922] Connecting: Bufas
+[    377578] Connecting: dolarex567
+[    399125] Connecting: dolarex567
+[    401047] Connecting: Bufas
+[    423485] Connecting: dolarex567
+[         0] Initializing Mono
+[        16] Initializing Mono completed
+[        16] Hello!
+[        94] Found new resource async in C:/ROCAMUNDORP\cfx-server-data/resources//[###essentials###]/async
+[        94] Found new resource esplugin_mysql in C:/ROCAMUNDORP\cfx-server-data/resources//[###essentials###]/esplugin_mysql
+[        94] Found new resource essentialmode in C:/ROCAMUNDORP\cfx-server-data/resources//[###essentials###]/essentialmode
+[       109] Found new resource es_admin2 in C:/ROCAMUNDORP\cfx-server-data/resources//[###essentials###]/es_admin2
+[       109] Found new resource es_extended in C:/ROCAMUNDORP\cfx-server-data/resources//[###essentials###]/es_extended
+[       109] Found new resource mysql-async in C:/ROCAMUNDORP\cfx-server-data/resources//[###essentials###]/mysql-async
+[       125] Found new resource PvP in C:/ROCAMUNDORP\cfx-server-data/resources//[###essentials###]/PvP
+[       125] Found new resource cron in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/cron
+[       125] Found new resource esx_accessories in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_accessories
+[       141] Found new resource esx_addonaccount in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_addonaccount
+[       141] Found new resource esx_addoninventory in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_addoninventory
+[       156] Found new resource esx_ambulancejob in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_ambulancejob
+[       156] Found new resource esx_animations in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_animations
+[       156] Found new resource esx_bankerjob in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_bankerjob
+[       172] Found new resource esx_barbershop in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_barbershop
+[       172] Found new resource esx_basicneeds in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_basicneeds
+[       187] Found new resource esx_billing in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_billing
+[       187] Found new resource esx_boat in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_boat
+[       187] Found new resource esx_boilerplate in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_boilerplate
+[       203] Found new resource esx_clotheshop in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_clotheshop
+[       203] Found new resource esx_datastore in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_datastore
+[       219] Found new resource esx_dmvschool in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_dmvschool
+[       219] Found new resource esx_drugs in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_drugs
+[       219] Found new resource esx_garage in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_garage
+[       234] Found new resource esx_holdup in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_holdup
+[       234] Found new resource esx_identity in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_identity
+[       250] Found new resource esx_joblisting in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_joblisting
+[       250] Found new resource esx_jobs in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_jobs
+[       266] Found new resource esx_license in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_license
+[       266] Found new resource esx_lscustom in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_lscustom
+[       281] Found new resource esx_mechanicjob in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_mechanicjob
+[       297] Found new resource esx_menu_default in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_menu_default
+[       297] Found new resource esx_menu_dialog in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_menu_dialog
+[       312] Found new resource esx_menu_list in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_menu_list
+[       312] Found new resource esx_migrate in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_migrate
+[       328] Found new resource esx_optionalneeds in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_optionalneeds
+[       328] Found new resource esx_policejob in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_policejob
+[       344] Found new resource esx_property in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_property
+[       359] Found new resource esx_realestateagentjob in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_realestateagentjob
+[       359] Found new resource esx_rpchat in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_rpchat
+[       375] Found new resource esx_service in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_service
+[       375] Found new resource esx_shops in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_shops
+[       391] Found new resource esx_sit in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_sit
+[       406] Found new resource esx_skin in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_skin
+[       406] Found new resource esx_society in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_society
+[       406] Found new resource esx_status in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_status
+[       422] Found new resource esx_taxijob in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_taxijob
+[       437] Found new resource esx_vehicleshop in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_vehicleshop
+[       437] Found new resource esx_voice in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_voice
+[       453] Found new resource esx_weaponshop in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/esx_weaponshop
+[       453] Found new resource es_camera in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/es_camera
+[       469] Found new resource instance in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/instance
+[       469] Found new resource new_banking in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/new_banking
+[       484] Found new resource skinchanger in C:/ROCAMUNDORP\cfx-server-data/resources//[###esx###]/skinchanger
+[       484] Found new resource fivem in C:/ROCAMUNDORP\cfx-server-data/resources//[###fivem###]/fivem
+[       500] Found new resource fivem-awesome1501 in C:/ROCAMUNDORP\cfx-server-data/resources//[###fivem###]/fivem-awesome1501
+[       516] Found new resource fivem-map-hipster in C:/ROCAMUNDORP\cfx-server-data/resources//[###fivem###]/fivem-map-hipster
+[       516] Found new resource fivem-map-skater in C:/ROCAMUNDORP\cfx-server-data/resources//[###fivem###]/fivem-map-skater
+[       531] Found new resource runcode in C:/ROCAMUNDORP\cfx-server-data/resources//[###fivem###]/runcode
+[       531] Found new resource race in C:/ROCAMUNDORP\cfx-server-data/resources//[###fivem###]/[gamemodes]/race
+[       547] Found new resource race-test in C:/ROCAMUNDORP\cfx-server-data/resources//[###fivem###]/[gamemodes]/race-test
+[       547] Found new resource channelfeed in C:/ROCAMUNDORP\cfx-server-data/resources//[###fivem###]/[gameplay]/channelfeed
+[       562] Found new resource irc in C:/ROCAMUNDORP\cfx-server-data/resources//[###fivem###]/[gameplay]/irc
+[       562] Found new resource obituary in C:/ROCAMUNDORP\cfx-server-data/resources//[###fivem###]/[gameplay]/obituary
+[       578] Found new resource obituary-deaths in C:/ROCAMUNDORP\cfx-server-data/resources//[###fivem###]/[gameplay]/obituary-deaths
+[       578] Found new resource playernames in C:/ROCAMUNDORP\cfx-server-data/resources//[###fivem###]/[gameplay]/playernames
+[       594] Found new resource mapmanager in C:/ROCAMUNDORP\cfx-server-data/resources//[###fivem###]/[managers]/mapmanager
+[       594] Found new resource baseevents in C:/ROCAMUNDORP\cfx-server-data/resources//[###fivem###]/[system]/baseevents
+[       609] Found new resource chat in C:/ROCAMUNDORP\cfx-server-data/resources//[###fivem###]/[system]/chat
+[       609] Found new resource hardcap in C:/ROCAMUNDORP\cfx-server-data/resources//[###fivem###]/[system]/hardcap
+[       625] Found new resource rconlog in C:/ROCAMUNDORP\cfx-server-data/resources//[###fivem###]/[system]/rconlog
+[       625] Found new resource scoreboard in C:/ROCAMUNDORP\cfx-server-data/resources//[###fivem###]/[system]/scoreboard
+[       641] Found new resource sessionmanager in C:/ROCAMUNDORP\cfx-server-data/resources//[###fivem###]/[system]/sessionmanager
+[       641] Found new resource spawnmanager in C:/ROCAMUNDORP\cfx-server-data/resources//[###fivem###]/[system]/spawnmanager
+[       656] Found new resource betaguns in C:/ROCAMUNDORP\cfx-server-data/resources//[###fivem###]/[test]/betaguns
+[       656] Found new resource gameInit in C:/ROCAMUNDORP\cfx-server-data/resources//[###fivem###]/[test]/gameInit
+[       672] Found new resource keks in C:/ROCAMUNDORP\cfx-server-data/resources//[###fivem###]/[test]/keks
+[       719] Started resource sessionmanager
+[       734] Started resource mapmanager
+[       750] Started resource chat
+[       766] Started resource spawnmanager
+[       781] Started gametype Freeroam
+[       781] Started resource fivem
+[       797] Started resource hardcap
+[       797] Started resource rconlog
+[       812] Started resource scoreboard
+[       828] Started resource playernames
+[       844] Started resource async
+[      1281] Loaded SQLite.net, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_1629524628
+[      1344] Loaded System.Data.SQLite, Version=1.0.109.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139 into ScriptDomain_1629524628
+[      1578] Failed to instantiate instance of script SQLite.Main: System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.DllNotFoundException: SQLite.Interop.dll
+[      1578]   at (wrapper managed-to-native) System.Data.SQLite.UnsafeNativeMethods:sqlite3_config_none (System.Data.SQLite.SQLiteConfigOpsEnum)
+[      1594]   at System.Data.SQLite.SQLite3.StaticIsInitialized () [0x0001d] in <2dbd34e157eb4fefbab8047bc0d9632d>:0 
+[      1594]   at System.Data.SQLite.SQLiteLog.Initialize (System.String className) [0x00026] in <2dbd34e157eb4fefbab8047bc0d9632d>:0 
+[      1594]   at System.Data.SQLite.SQLiteConnection..ctor (System.String connectionString, System.Boolean parseViaFramework) [0x00046] in <2dbd34e157eb4fefbab8047bc0d9632d>:0 
+[      1594]   at System.Data.SQLite.SQLiteConnection..ctor (System.String connectionString) [0x00000] in <2dbd34e157eb4fefbab8047bc0d9632d>:0 
+[      1594]   at (wrapper remoting-invoke-with-check) System.Data.SQLite.SQLiteConnection:.ctor (string)
+[      1594]   at SQLite.Main..ctor () [0x0004f] in <d9601824428540b9a7e0ba8d7ddf823e>:0 
+[      1594]   at (wrapper managed-to-native) System.Reflection.MonoCMethod:InternalInvoke (System.Reflection.MonoCMethod,object,object[],System.Exception&)
+[      1594]   at System.Reflection.MonoCMethod.InternalInvoke (System.Object obj, System.Object[] parameters) [0x00002] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[      1594]    --- End of inner exception stack trace ---
+[      1594]   at System.Reflection.MonoCMethod.InternalInvoke (System.Object obj, System.Object[] parameters) [0x00014] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[      1594]   at System.RuntimeType.CreateInstanceMono (System.Boolean nonPublic) [0x000a8] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[      1594]   at System.RuntimeType.CreateInstanceSlow (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00009] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[      1594]   at System.RuntimeType.CreateInstanceDefaultCtor (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00027] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[      1594]   at System.Activator.CreateInstance (System.Type type, System.Boolean nonPublic) [0x00020] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[      1594]   at System.Activator.CreateInstance (System.Type type) [0x00000] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[      1594]   at CitizenFX.Core.InternalManager.CreateAssemblyInternal (System.Byte[] assemblyData, System.Byte[] symbolData) [0x00069] in C:\gl\builds\4ff63adb\0\cfx\fivem\code\client\clrcore\InternalManager.cs:78 
+[      1625] Started resource essentialmode
+[      1656] Started resource es_admin2
+[      1672] Started resource mysql-async
+[      1672] Started resource esplugin_mysql
+[      1687] Error loading script config.weapons.lua in resource es_extended: config.weapons.lua:13: attempt to call a nil value (global 'GetHashKey')
+[      1687] stack traceback:
+[      1687] 	config.weapons.lua:13: in main chunk
+[      1687] Failed to load script config.weapons.lua.
+[      1750] Started resource es_extended
+[      1750] Started resource PvP
+[      1766] Started resource cron
+[      1766] Started resource es_camera
+[      1781] Started resource skinchanger
+[      1812] Started resource esx_skin
+[      1828] Started resource esx_datastore
+[      1844] Started resource esx_accessories
+[      1875] Started resource esx_addonaccount
+[      1891] Started resource esx_addoninventory
+[      1906] Started resource esx_vehicleshop
+[      1937] Started resource esx_ambulancejob
+[      1937] Started resource esx_animations
+[      1969] Started resource esx_bankerjob
+[      1984] Started resource esx_barbershop
+[      2000] Started resource esx_status
+[      2016] Started resource esx_basicneeds
+[      2031] Started resource esx_billing
+[      2062] Started resource esx_boat
+[      2078] Started resource esx_boilerplate
+[      2094] Started resource esx_clotheshop
+[      2109] Started resource esx_license
+[      2141] Started resource esx_dmvschool
+[      2187] Started resource esx_drugs
+[      2203] Started resource esx_garage
+[      2219] Started resource esx_holdup
+[      2266] Started resource esx_identity
+[      2281] Started resource esx_joblisting
+[      2297] Started resource esx_jobs
+[      2328] Started resource esx_lscustom
+[      2344] Started resource esx_mechanicjob
+[      2359] Started resource esx_menu_default
+[      2359] Started resource esx_menu_dialog
+[      2375] Started resource esx_menu_list
+[      2391] Started resource esx_migrate
+[      2406] Started resource esx_optionalneeds
+[      2437] Started resource esx_policejob
+[      2453] Started resource instance
+[      2469] Started resource esx_property
+[      2484] Started resource esx_society
+[      2500] Started resource esx_realestateagentjob
+[      2531] Started resource esx_rpchat
+[      2547] Started resource esx_service
+[      2562] Started resource esx_shops
+[      2594] Started resource esx_sit
+[      2625] Started resource esx_taxijob
+[      2625] Started resource esx_voice
+[      2641] Started resource esx_weaponshop
+[      2687] Started resource new_banking
+[      2687] Stopping resource esx_ambulancejob
+[      2719] Started resource esx_ambulancejob
+[      2719] Stopping resource esx_bankerjob
+[      2734] Started resource esx_bankerjob
+[      2734] Stopping resource esx_joblisting
+[      2766] Started resource esx_joblisting
+[      2766] Stopping resource esx_jobs
+[      2797] Started resource esx_jobs
+[      2797] Stopping resource esx_mechanicjob
+[      2812] Started resource esx_mechanicjob
+[      2828] Stopping resource esx_policejob
+[      2844] Started resource esx_policejob
+[      2859] Stopping resource esx_realestateagentjob
+[      2875] Started resource esx_realestateagentjob
+[      2875] Stopping resource esx_taxijob
+[      2891] Started resource esx_taxijob
+[      2891] Authenticating server license key...
+[      3078] Server license key authentication succeeded. Welcome!
+[      3156] Performing version check against: https://api.kanersps.pw/em/version?version=6.3.0&uuid=1203ad1f-8ef1-44a1-5af5-18dd709157e6
+[      3156] 
+[      3172] Started map fivem-map-skater
+[      3172] Started resource fivem-map-skater
+[      3687] 
+[      3687] ^2[EssentialMode]^0 Current version: 6.3.0
+[      3687] ^2[EssentialMode]^0 Updater version: 6.2.2
+[      3687] 
+[      3703] ^2[EssentialMode]^0 Everything is nice and updated!
+[      3703] 
+[      3719] ^1Advertisement: ^7Want to have EssentialMode pre-installed on a good and affordable server host? Go to the following link: https://zap-hosting.com/EssentialMode

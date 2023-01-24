@@ -1,0 +1,125 @@
+<style>
+
+	.app {
+		display: none;
+		background-image: url('img/tablet.png');
+		background-size: 100%;
+
+		position:absolute;
+		left:0; right:0;
+		top:0; bottom:0;
+		margin: auto;
+	
+		height: 843px;
+		width: 566px;
+		overflow: hidden;
+	
+	}
+	
+	#screen {
+	
+		position:absolute;
+		left:0; right:0;
+		top:11; bottom:0;
+		margin: auto;
+	
+		height: 685px;
+		width: 425px;
+		overflow:auto;
+	}
+	
+	#banner {
+		background-image: url('img/header.png');
+		background-color: red;
+		height: 132px;
+	}
+	
+	body {
+		
+		height: 100%;
+	}
+	
+	textarea {
+		
+		width: 100%;
+		
+	}
+	
+	.editor {
+		
+		width: 100%;
+		
+	}
+	
+	
+	</style>
+	
+	<head>
+		<script src="nui://game/ui/jquery.js" type="text/javascript"></script>
+		<script src="scripts.js" type="text/javascript"></script>
+		<script src="debounce.min.js" type="text/javascript"></script>
+		<link href='http://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
+		<link rel="stylesheet" href="styles.css" type="text/css">
+	</head>
+	
+	<body>
+		<div class = "app">
+		
+				
+				<div class = "w3-w" id = "screen">
+				
+					<div class = "w3-container" id = "banner">
+					</div>
+					
+					<div class = "editor w3-container w3-white">
+
+						<br>
+						<div class "radiolife w3-white">
+							<b>Trabajo que solicitas:</b><br>
+							<input id = "police" type="radio" name="type" value="police" checked> <font color="cornflowerblue">Policía</font> <br>
+							<input id = "ambulance" type="radio" name="type" value="ambulance" checked> <font color="red">EMS</font> <br>
+							<!-- <input id = "cardealer" type="radio" name="type" value="cardealer" checked> Concessionnaire <br> -->
+							<input id = "mechanic" type="radio" name="type" value="mechanic" checked> Mecánico <br>
+							<!-- <input id = "realestate" type="radio" name="type" value="realestate" checked> Agence Immobiler <br> -->
+							<!-- <input id = "taxi" type="radio" name="type" value="taxi" checked> Taxi <br> -->
+							<!-- <input id = "delivery" type="radio" name="type" value="delivery" checked> Tabac <br> -->
+							<!-- <input id = "motodealer" type="radio" name="type" value="motodealer" checked> Concessionaire Moto <br> -->
+							<!-- <input id = "ammunation" type="radio" name="type" value="ammunation" checked> Armurerie <br> -->
+							<input id = "bahama" type="radio" name="type" value="bahama" checked> Mafia1 <br>
+							<input id = "banquer" type="radio" name="type" value="banquer" checked> Mafia2 <br>
+							<input id = "unicorn" type="radio" name="type" value="unicorn" checked> Mafia3 <br>
+							<input id = "brasseur" type="radio" name="type" value="brasseur" checked> Mafia4 <br>
+							<!-- <input id = "avocat" type="radio" name="type" value="avocat" checked> Cabinet d'avocat <br>-->
+							<br>
+						</div>
+						
+						<b>Nombre en Discord [Obligatorio]</b>
+						<textarea class = "phone w3-white" rows="1" placeholder="ElvaGinazo23, Tag: 3498"></textarea>
+						<br>
+						<br>
+						
+						<b>Títulos y licencias (Si no dispones de nada, pon NADA)[Obligatorio]</b>
+						<textarea class = "licenses w3-white" rows="1" placeholder="Carné de Coche y licencia de armas"></textarea>
+						<br>
+						<br>
+						
+						<b>Motivos [Obligatorio]</b>
+						<textarea class = "exp w3-white" rows="6" placeholder="Me llamo Elva y me gustaría entrar en el cuerpo de policía para servir al ciudadano.            Gracias, Atentamente Elva Ginazo."></textarea>
+						<br>
+						<br>
+
+						<b>Su solicitud será enviada al CEO de la compañía, el retraso puede ser de 24 horas MÁXIMO. Al enviar una solicitud, se verificará su historial criminal y sus credenciales.</b><br>
+						<br>
+						
+						<b>¡Si NO ser rellenan TODOS los campos, la solicitud no será enviada!</b><br>
+						<br>
+						
+						<button class="w3-button w3-green w3-left btnSend">Enviar</button>
+						<button class="w3-button w3-red w3-left btnClose">Cancelar</button>
+						<br>
+						
+					</div>
+					
+					
+				</div></div>	
+	</body>

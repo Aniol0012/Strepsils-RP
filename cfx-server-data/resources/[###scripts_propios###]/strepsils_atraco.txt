@@ -1,0 +1,5 @@
+if IsCopsActive() and not AtracoCurrent() and not IsCop() and IsAimingAt(ped) then
+	TaskCoords
+	Wait(10000)
+	ToggleDoor()
+end

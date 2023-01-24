@@ -1,0 +1,169 @@
+.color-0{color: #ffffff;} /* Blanco */
+.color-1{color: #ff0000;} /* Rojo */
+.color-2{color: #6bff21;} /* Verde */
+.color-3{color: #ffaa00;} /* Naranja */
+.color-4{color: #00bbff;} /* Azul */
+.color-5{color: #066e94;} /* Azul Oscuro */
+.color-6{color: #aa66cc;} /* Morado */
+.color-8{color: #cc0000;} /* Rojo intenso */
+.color-9{color: #ff1cc2;} /* Rosa */
+
+* {
+  font-family: 'Tahoma', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.no-grow {
+  flex-grow: 0;
+}
+
+em {
+  font-style: normal;
+}
+
+#app {
+  font-family: 'Tahoma', Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: white;
+}
+
+Default: 
+/*
+.chat-window {
+  position: absolute;
+  top: 15px;
+  left: 15px;
+  width: 38%;
+  height: 240px;
+
+  background-color: rgba(52, 73, 94, 0.0);
+  -webkit-animation-duration: 2s;
+}
+*/
+
+.chat-window {
+  position: absolute;
+  top: 2.0%; /* Con esto defines lo arriba o abajo que se encuentra el chat. Default: 2.0  */
+  left: 1.0%; /* Con esto defines lo derecha o izquierda que se encuentra el chat. Default: 2.0 */
+  width: 25%;
+  height: 8%;
+  max-width: 650px; /* Con esto defines cuanto largo en horizontal es el chat */
+  background-color: red;
+  -webkit-animation-duration: 2s;
+  }
+
+
+.chat-messages {
+  position: relative;
+  height: 95%;
+  font-size: 1.8rem;
+  margin: 1%;
+
+  overflow-x: hidden;
+  overflow-y: hidden;
+}
+
+/* Default:
+
+.chat-input {
+  font-size: 1.2rem;
+  position: absolute;
+
+  top: 257px;
+  left: 15px;
+  width: 38%;
+
+  box-sizing: border-box;
+}
+*/
+
+.chat-input {
+  font-size: 1.55vh;
+  position: absolute;
+
+  top: 23.8%; /* Con esto defines lo baja que esta la barra para escribir los mensajes. Default: 23.8 */
+  left: 0.8%;
+  width: 38%;
+  max-width: 1000px;
+  box-sizing: border-box;
+}
+
+
+.prefix {
+  font-size: 1.8vh;
+  position: absolute;
+  margin-top: 0.5%;
+  left: 0.208%;
+}
+
+/* Default:
+
+textarea {
+  font-size: 1.1rem;
+  display: block;
+  box-sizing: border-box;
+  padding: 5px;
+  padding-left: 27px;
+  color: white;
+  background-color: rgba(44, 62, 80, 0.0);
+  width: 100%;
+  border-width: 0;
+  height: 34px;
+  overflow: hidden;
+}
+*/
+
+textarea {
+  font-size: 1.85vh;
+  display: block;
+  box-sizing: border-box;
+  padding: 1%;
+  padding-left: 3.5%; /* Esto define cuanto a la derecha sale el texto en el chat */
+  color: white;
+  background-color: green; /* Aquí puedes ver los disponibles: https://www.w3schools.com/cssref/css_colors.asp //// El green, su color es: #008000 */
+  width: 60%; /* Esto define lo largo que es el box del chat */
+  border-width: 0; /* Con esto defines si quieres un borde en el box del chat */
+  height: 2.15%;
+  opacity: 0.5; /* Aqui puedes poner la opacidad del texto, en 1, la opacidad es máxima (opaco), y en 0 la opacidad es mínima (transparente) */
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+textarea:focus, input:focus {
+    outline: none;
+}
+
+.msg {
+  margin-bottom: 0.28%;
+}
+
+.multiline {
+  margin-left: 4%;
+  text-indent: -1.2rem;
+  white-space: pre-line;
+}
+
+.suggestions {
+  list-style-type: none;
+  padding: 5px;
+  padding-left: 27px;
+  font-size: 1.1rem;
+  box-sizing: border-box;
+  color: white;
+  background-color: rgba(44, 62, 80, 0.0);
+  width: 100%;
+}
+
+.help {
+  color: #b0bbbd;
+}
+
+.disabled {
+  color: #b0bbbd;
+}
+
+.suggestion {
+  margin-bottom: 5px;
+}
